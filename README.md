@@ -17,6 +17,11 @@ This project addresses:
 - Enabling stakeholders to prioritize **policy and resource allocation**
 
 ---
+## Dashboard Preview
+
+![U.S. Greenhouse Gas Emissions Dashboard](Emissions%20Dashboard.png)
+
+---
 
 ## Key Insights
 - **~51% of total U.S. emissions originate from just 10 states**
@@ -32,11 +37,6 @@ This project addresses:
 - **Top Contributors**: Top 10 states by total emissions
 - **County Rankings**: Highest-emitting counties by CO₂e
 
-  
----
-## Dashboard Preview
-
-![U.S. Greenhouse Gas Emissions Dashboard](Emissions%20Dashboard.png)
 
 ---
 
